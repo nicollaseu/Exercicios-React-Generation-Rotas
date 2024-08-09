@@ -1,16 +1,12 @@
 # Exercícios React Generation - Rotas
 
-Este repositório contém uma série de exercícios focados em praticar o uso de rotas com React, desenvolvidos durante o curso da Generation. O objetivo é aprofundar o conhecimento sobre como implementar navegação entre diferentes componentes em uma aplicação React, utilizando a biblioteca React Router.
+Este repositório contém o Exercício 2 da série focada em praticar o uso de rotas com React, desenvolvido durante o curso da Generation. O objetivo é aprofundar o conhecimento sobre como implementar navegação entre diferentes componentes em uma aplicação React, utilizando a biblioteca React Router.
 
 ## Funcionalidades
 
-**Navegação entre páginas:** Implementação de rotas para navegação entre diferentes componentes.
-
-**Parâmetros de Rotas:** Utilização de parâmetros nas rotas para passar informações entre as páginas.
-
-**Redirecionamentos:** Configuração de redirecionamentos para gerenciar a navegação do usuário.
-
-**404 Not Found:** Implementação de uma página de erro para rotas inexistentes.
+Navegação entre páginas: Implementação de rotas para navegação entre diferentes componentes.
+Parâmetros de Rotas: Utilização de parâmetros nas rotas para passar informações entre as páginas.
+404 Not Found: Implementação de uma página de erro para rotas inexistentes.
 
 ## Tecnologias Utilizadas
 
